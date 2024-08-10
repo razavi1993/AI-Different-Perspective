@@ -13,9 +13,6 @@ using SymPy
 # ╔═╡ 6b68b005-5870-4bd9-be96-447f98c7d727
 using PyCall
 
-# ╔═╡ 37b4feb4-5492-4fa0-bf9d-c07644e4c5ee
-Base.show(io::IO,::MIME"text/html",x::Number) = show(io,MIME("text/latex"),x)
-
 # ╔═╡ 9e6bfb1b-8ce7-4db0-956e-b36da65ba93a
 n, a, d = symbols(["n", "a", "d"])
 
