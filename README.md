@@ -1,2 +1,4 @@
 # AI-Different-Perspective
-https://rawcdn.githack.com/razavi1993/AI-Different-Perspective/09a3de0293ad2f758e15035a7461ab6655d022cd/AI-mathematician-tips/arithmetic_series.html
+
+https://rawcdn.githack.com/razavi1993/AI-Different-Perspective/d2c2e495458b4de292de610cb89a82a810cd2059/AI-mathematician-tips/arithmetic_series.html
+
